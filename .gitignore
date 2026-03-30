@@ -1,0 +1,5 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+src/mamba_wheels/
+src/dataset
